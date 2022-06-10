@@ -1,11 +1,11 @@
-module github.com/kitex-contrib/registry-etcd
+module github.com/a76yyyy/registry-etcd
 
 go 1.15
 
 require (
 	github.com/apache/thrift v0.16.0 // indirect
 	github.com/cloudwego/kitex v0.3.2
-	github.com/cloudwego/kitex-examples v0.0.0-20211019030300-7fd73f66ff4d
+	github.com/cloudwego/kitex-examples v0.1.0
 	github.com/stretchr/testify v1.7.0
 	go.etcd.io/etcd/client/v3 v3.5.4
 	go.etcd.io/etcd/server/v3 v3.5.1

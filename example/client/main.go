@@ -19,10 +19,10 @@ import (
 	"log"
 	"time"
 
+	etcd "github.com/a76yyyy/registry-etcd"
 	"github.com/cloudwego/kitex-examples/hello/kitex_gen/api"
 	"github.com/cloudwego/kitex-examples/hello/kitex_gen/api/hello"
 	"github.com/cloudwego/kitex/client"
-	etcd "github.com/kitex-contrib/registry-etcd"
 )
 
 func main() {
