@@ -21,3 +21,4 @@ example/server/server
 *.iml
 # Vscode files
 .vscode
+.lh/
